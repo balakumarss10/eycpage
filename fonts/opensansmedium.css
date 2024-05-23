@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'opensansmedium';
+    src: url('fonts/opensansmedium.eot');
+    src: url('fonts/opensansmedium.eot') format('embedded-opentype'),
+         url('fonts/opensansmedium.woff2') format('woff2'),
+         url('fonts/opensansmedium.woff') format('woff'),
+         url('fonts/opensansmedium.ttf') format('truetype'),
+         url('fonts/opensansmedium.svg#opensansmedium') format('svg');
+}
